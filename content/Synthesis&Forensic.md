@@ -136,6 +136,11 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+
+**IGNOR: Image-guided Neural Object Rendering.**<br>
+*Justus Thies, Michael Zollhöfer, Christian Theobalt, Marc Stamminger, Matthias Nießner.*<br>
+arxiv, 26 Nov 2018 (15 Jan 2020). [[PDF](https://arxiv.org/abs/1811.10720)]
+
 **Monocular Neural Image Based Rendering with Continuous View Control.**<br>
 *[Xu Chen](https://ait.ethz.ch/people/xu/), [Jie Song](https://ait.ethz.ch/people/song/), Otmar Hilliges.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1901.01880)]
@@ -157,6 +162,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 arxiv, 26 Nov 2019.
 
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
+
+**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
+*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
+arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
 
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.** <br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.* <br>
